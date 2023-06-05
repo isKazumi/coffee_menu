@@ -1,0 +1,157 @@
+{
+    "coffee": [
+        {
+            "id": 1,
+            "nama": "Expresso",
+            "img": "https://i.pinimg.com/originals/50/be/5f/50be5f36d5b74cefbf7ca3b44fced35e.jpg",
+            "desc": "Kopi Murni",
+            "harga": 18000
+        },
+        {
+            "id": 2,
+            "nama": "Americano",
+            "img": "https://www.homegrounds.co/wp-content/uploads/2018/01/americano.jpg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 3,
+            "nama": "Cappuccino",
+            "img": "https://www.ffactor.com/wp-content/uploads/2018/08/AdobeStock_202756131.jpeg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 4,
+            "nama": "Mocha",
+            "img": "http://www.lmpatisserie.com.au/wp-content/uploads/2016/12/Mocha.jpg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 5,
+            "nama": "Cofe Latte",
+            "img": "https://brookrest.com/wp-content/uploads/2020/05/AdobeStock_315919556-scaled.jpeg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 6,
+            "nama": "Caramel Macchiato",
+            "img": "https://i.insider.com/568a8b92e6183e591e8b6575?width=5141",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 7,
+            "nama": "Picolo",
+            "img": "https://australiancoffeelovers.com.au/wp-content/uploads/2020/07/Featured-Template-26-1-1024x538.jpg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 8,
+            "nama": "Affogato",
+            "img": "https://www.agropursolutions.ca/sites/agropursolutions/files/2021-02/Affogato_0.jpg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 9,
+            "nama": "Local Beans",
+            "img": "https://www.weekendnotes.com/im/009/00/photo-180756121.jpg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        },
+        {
+            "id": 10,
+            "nama": "Guest Beans",
+            "img": "https://i.huffpost.com/gen/2629372/images/o-COFFEE-BEANS-facebook.jpg",
+            "desc": "Kopi Murni",
+            "harga": 8000
+        }
+    ],
+
+    "susu": [
+        {
+            "id": 11,
+            "nama": "Choco Porates",
+            "img": "https://www.thespruceeats.com/thmb/-y0_JLiYiQQS9V0iLP7ZGrXoVQU=/4188x2795/filters:no_upscale():max_bytes(150000):strip_icc()/chocolate-milk-recipe-2355494-hero-02-80cffdb175904e03a8fd6bb7d6ffc0dd.jpg",
+            "desc": "Susu UHT",
+            "harga": 6000
+        },
+        {
+            "id": 12,
+            "nama": "Green Land Latte",
+            "img": "https://www.breadtalk.com.mm/shop/oatydeen/2020/05/Green-Tea-Latte-Hot.png",
+            "desc": "Susu UHT",
+            "harga": 6000
+        },
+        {
+            "id": 13,
+            "nama": "Red Beach Latte",
+            "img": "https://i.pinimg.com/originals/40/33/47/40334729908a71371e2bad33ced72259.jpg",
+            "desc": "Susu UHT",
+            "harga": 6000
+        },
+        {
+            "id": 14,
+            "nama": "Purple Sky Ocean",
+            "img": "https://img-global.cpcdn.com/recipes/8ebc2aab0da6467e/1502x1064cq70/sky-blue-milk-tea-frozen-recipe-main-photo.jpg",
+            "desc": "Susu UHT",
+            "harga": 6000
+        },
+        {
+            "id": 15,
+            "nama": "Octopus Ink Latte",
+            "img": "https://preview.redd.it/pizallgz5y811.jpg?width=960&crop=smart&auto=webp&s=30809b3a1b1dfeb2ac854afbeb1307a7fe199cac",
+            "desc": "Susu UHT",
+            "harga": 6000
+        },
+        {
+            "id": 16,
+            "nama": "Rum Biscuit Latte",
+            "img": "https://www.torani.com/sites/default/files/styles/torani_syrup_recipe_detail/public/recipes/illustration/iced%20latte%20with%20swirl_0.jpg?itok=EACJtTMC",
+            "desc": "Susu UHT",
+            "harga": 6000
+        }
+    ],
+
+    "snack": [
+        {
+            "id": 17,
+            "nama": "Bite My Ring",
+            "img": "https://www.kentaki.com.br/wp-content/themes/kentaki/img/cardapio/6.jpg",
+            "desc": "Snacks",
+            "harga": 6000
+        },
+        {
+            "id": 18,
+            "nama": "Yellow Submarine",
+            "img": "https://www.wartasolo.com/wp-content/uploads/2017/04/pempek-kapal-selam.jpg",
+            "desc": "Snacks",
+            "harga": 6000
+        },
+        {
+            "id": 19,
+            "nama": "Frencheese",
+            "img": "https://goodcms.s3.amazonaws.com/truffle/uploads/frencheese-raclette4.jpg",
+            "desc": "Snacks",
+            "harga": 6000
+        },
+        {
+            "id": 20,
+            "nama": "Flourish Squidy",
+            "img": "https://cdn.idntimes.com/content-images/community/2021/02/fromandroid-e4997b80a94cdd58f5d8f61cc783686b.jpg",
+            "desc": "Snacks",
+            "harga": 6000
+        },
+        {
+            "id": 21,
+            "nama": "Lost Dorry",
+            "img": "https://akcdn.detik.net.id/visual/2019/10/02/8caf1460-5581-40ef-9d21-5eb09ae34d64_169.jpeg?w=900&q=90",
+            "desc": "Snacks",
+            "harga": 6000
+        }
+    ]
+}
