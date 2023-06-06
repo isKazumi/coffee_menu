@@ -27,7 +27,6 @@ linkCoffee.addEventListener('click', event => clickHendler(event));
 linkSusu.addEventListener('click', event => clickHendler(event));
 linkSnack.addEventListener('click', event => clickHendler(event));
 linkBeranda.addEventListener('click', event => clickHendler(event));
-beliBtn.addEventListener('click', event => btnBeli(event));
 
 (function () {
     clickHendler(null);
